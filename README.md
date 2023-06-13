@@ -4,6 +4,7 @@ reproducing data analysis for MEISTER
 ## File descriptions
 
 - `MEISTER_eval.ipynb`: Evaluation of MEISTER models on experimental MSI data sets.
+- `MEISTER_simulation.ipynb`: Evaluation of MEISTER models on simulated MSI data sets.
 - `MEISTER_singlecell.ipynb`: Evaluation of MEISTER models on experimental single-cell MS data sets.
 - `coronal3D.ipynb`: Post processing of the reconstructed 3D coronal data.
 - `embed3D.ipynb` and `embed_3DCoronal`: Parametric UMAP to obtain coherent feature images for sagittal and coronal data sets.
